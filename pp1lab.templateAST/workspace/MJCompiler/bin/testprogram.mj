@@ -1,0 +1,14 @@
+program MJProgram
+	int x, y;
+{
+	void main() {
+		true ;
+		false ;
+		'e' 
+		break
+		class
+		else
+		if new print read return void do while extends continue
+		+ - / * %  == != > >= < <= && || = ++ -- , . ( ) [] { }
+	}
+}

@@ -3,15 +3,14 @@ program MJProgram
 {
 	
 	int k () int c; {
-		c = 1;
-		return c+2;
+		c = 0;
+		return c+3;
 	}
 	
 	int main() {
-		y = 2;
-		x = y + 2;
-		y = k() + 3;
-		print(y);
-		return 0;
+		print(1);
+		x = y+3;
+		k();
+		print(2);
 	}
 }

@@ -1,0 +1,10 @@
+program MJProgram
+	int x, y;
+{
+	void main() {
+		true ;
+		false ;
+		'
+		'
+	}
+}
